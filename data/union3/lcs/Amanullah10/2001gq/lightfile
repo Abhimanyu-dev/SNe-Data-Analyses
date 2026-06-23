@@ -1,0 +1,14 @@
+NAME           2001gq
+SET            SCP2001
+RA             14:01:51.2 
+DEC            +04:53:11.1
+EPOCH          2000.0
+Redshift       0.671
+z_heliocentric 0.671
+z_cmb          0.671
+MWEBV          0.027
+MWEBV_orig     0.027
+
+P_high  0.448328206705
+Mass  9.88  0.92  -0.92
+SurveyMass  9.88  0.92

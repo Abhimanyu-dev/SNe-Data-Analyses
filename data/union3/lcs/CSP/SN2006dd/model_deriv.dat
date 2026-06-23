@@ -1,0 +1,7 @@
+#Format:      
+#Parameter    MagSys|Instrument|Band                   RestLamb             Phase    dmu/dP                   dmB/dP                   ds/dP                  dc/dP                    
+Zeropoint     Linear_AB11_off|SWOPE|SWOPE_V-LC-9844    5370.485538634665    All      1.0                      1.0                      0.0                    0.0                      
+Check         All|All|All                              All                  All      1.0                      1.0                      0.0                    0.0                      
+Lambda        Linear_AB11_off|SWOPE|SWOPE_V-LC-9844    5370.485538634665    All      0.0015886841349255954    0.0004912926102442839    0.01954930735934131    0.0005149392780288104    
+MWEBV         All|All|All                              All                  All      0.40630687030784873      -1.4387845348137418      46.54563171079139      1.4761107945461989       
+Redshift      All|All|All                              All                  All      -7.600838387510047       -0.3554661667461545      -22.22835202613962     1.3681068381702814       

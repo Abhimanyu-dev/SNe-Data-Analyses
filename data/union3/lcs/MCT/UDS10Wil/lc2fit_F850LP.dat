@@ -1,0 +1,8 @@
+@INSTRUMENT ACSWF
+@BAND F850LP
+@MAGSYS AB
+#Date : 
+#Flux : 
+#Fluxerr : 
+#ZP : 
+55574.65  -0.019  0.502  27.4949

@@ -1,0 +1,27 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Data files (large, not committed)
+*.npz
+*.fits
+*.fits.gz
+*.tar.gz
+*.pickle
+
+# Figures output
+figures/

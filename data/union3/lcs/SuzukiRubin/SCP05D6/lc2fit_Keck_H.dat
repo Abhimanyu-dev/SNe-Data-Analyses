@@ -1,0 +1,11 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT  KeckAO
+@BAND  Keck_H
+@MAGSYS  VEGAHST
+53642.417  2.6062  0.5281  25.44
+53656.417  4.1305  0.5326  25.44
+53699.417  1.803  0.465  25.44

@@ -1,0 +1,12 @@
+@INSTRUMENT MEGACAMPSF
+@BAND z
+@MAGSYS AB
+@WEIGHTMAT weightmat_SNLS_z.dat
+@X_FOCAL_PLANE 5.721165
+@Y_FOCAL_PLANE -5.14755
+#Date : MJD
+#Flux : 
+#Fluxerr : errors (but look at the weight matrix)
+#ZP : 
+#end
+52730.52  -1.092963  0.805185015146  25.319520999999998

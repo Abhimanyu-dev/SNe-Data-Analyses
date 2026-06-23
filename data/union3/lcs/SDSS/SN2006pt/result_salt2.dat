@@ -1,0 +1,38 @@
+Salt2Model
+BEGIN_OF_FITPARAMS Salt2Model
+DayMax 54010.363613 1.0
+Redshift 0.298808 0 F
+Color 0.0 1.0
+X0 6.309573444801891e-30 5.8113319028607704e-30
+X1 0.0 1.0
+RestFrameMag_0_UX 83.25937961151398 0.0
+RestFrameMag_0_B 83.64351192983497 1.0
+RestFrameMag_0_V 83.62008209006022 0.0
+RestFrameMag_0_R 83.63032137720634 0.0
+CovDayMaxDayMax 1.0 -1
+CovDayMaxRestFrameMag_0_B 0.0 -1
+CovDayMaxX1 0.0 -1
+CovDayMaxColor 0.0 -1
+CovRestFrameMag_0_BDayMax 0.0 -1
+CovRestFrameMag_0_BRestFrameMag_0_B 1.0 -1
+CovRestFrameMag_0_BX1 0.0 -1
+CovRestFrameMag_0_BColor 0.0 -1
+CovX1DayMax 0.0 -1
+CovX1RestFrameMag_0_B 0.0 -1
+CovX1X1 1.0 -1
+CovX1Color 0.0 -1
+CovColorDayMax 0.0 -1
+CovColorRestFrameMag_0_B 0.0 -1
+CovColorX1 0.0 -1
+CovColorColor 1.0 -1
+
+dmu_estimate 3.231666597902698
+FirstPhase  -12.271914709489288
+LastPhase  41.56061711969802
+LatestNegPhase  -1.5330687830675818
+EarliestPosPhase  0.0006382775567164621
+NightsNegPhase  5
+NightsPosPhase  13
+
+salt3source   1
+salt2_version   salt3-f22

@@ -1,0 +1,9 @@
+@INSTRUMENT  WFC3
+@BAND WFC3_f160w
+@MAGSYS AB 
+#Date : 
+#Mag : 
+#Magerr : 
+57357.0  24.07  0.072
+57373.0  24.293  0.078
+57363.0  24.378  0.078

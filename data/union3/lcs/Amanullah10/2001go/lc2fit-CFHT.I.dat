@@ -1,0 +1,12 @@
+#Date  :  (days  since  January  1st,  2003)
+#Flux  :
+#Fluxerr  :
+#ZP  :  elixir  zp
+@INSTRUMENT CFH12K
+@BAND  CFH12K_I
+@MAGSYS  Linear_AB11_off
+@WEIGHTMAT  2001go.CFHT.I-night-weightmat.dat
+52015.50  18795.503  485.781  33.092
+52019.38  18042.115  446.707  33.092
+51998.47  10657.838  404.095  33.092
+52025.14  15304.326  799.475  33.092

@@ -1,0 +1,9 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT  CNIa02
+@BAND  Bessell12_R
+@MAGSYS  Linear_AB11_off
+57602.2285000002  248.4276893696803  15.330293965225973  25.0

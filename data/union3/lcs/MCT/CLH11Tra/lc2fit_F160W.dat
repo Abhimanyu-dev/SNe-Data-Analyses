@@ -1,0 +1,9 @@
+@INSTRUMENT WFC3
+@BAND WFC3_f160w
+@MAGSYS AB
+#Date : 
+#Flux : 
+#Fluxerr : 
+#ZP : 
+55872.45  12.796  1.416  27.4949
+55885.224  8.097  1.191  27.4949

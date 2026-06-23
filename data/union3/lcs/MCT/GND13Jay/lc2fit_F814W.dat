@@ -1,0 +1,9 @@
+@INSTRUMENT ACSWF
+@BAND F814W
+@MAGSYS AB
+#Date : 
+#Flux : 
+#Fluxerr : 
+#ZP : 
+56391.73  1.39  0.222  27.4934
+56577.2  0.305  0.458  27.4934

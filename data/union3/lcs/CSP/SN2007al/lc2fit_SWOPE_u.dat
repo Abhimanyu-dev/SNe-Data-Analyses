@@ -1,0 +1,11 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  SWOPE
+@BAND  SWOPE_u
+@MAGSYS  Linear_AB11_off
+54170.27  18.727  0.024
+54174.1  19.336  0.044
+54179.07  20.407  0.095
+54181.22  20.61  0.113

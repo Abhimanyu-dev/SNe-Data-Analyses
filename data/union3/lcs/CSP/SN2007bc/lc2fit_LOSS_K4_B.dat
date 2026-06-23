@@ -1,0 +1,8 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  LOSS
+@BAND  LOSS_K4_B
+@MAGSYS  Linear_AB11_off
+54241.18  19.37  0.161

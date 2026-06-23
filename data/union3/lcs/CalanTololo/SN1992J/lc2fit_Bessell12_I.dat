@@ -1,0 +1,10 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  CalanTololo
+@BAND  Bessell12_I
+@MAGSYS  Linear_AB11_off
+48686.279999999795  18.622  0.046
+48691.16000000015  18.434  0.037
+48721.029999999795  19.837  0.061

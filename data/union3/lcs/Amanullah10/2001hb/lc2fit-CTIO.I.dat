@@ -1,0 +1,12 @@
+#Date  :  (days  since  January  1st,  2003)
+#Flux  :
+#Fluxerr  :
+#ZP  :  elixir  zp
+@INSTRUMENT MOSAICII
+@BAND  MOSAICII_AMANULLAH_I
+@MAGSYS  Linear_AB11_off
+@WEIGHTMAT  2001hb.CTIO.I-night-weightmat.dat
+52017.22  3153.336  526.806  33.121
+52019.15  4199.310  665.553  33.121
+51996.18  1067.738  564.229  33.121
+51997.17  921.237  597.525  33.121

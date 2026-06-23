@@ -1,0 +1,8 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  CfA34_FLWO
+@BAND  CfA34_4Sh_Harris_B
+@MAGSYS  Linear_AB11_off
+52102.30186  16.958  0.027206535685382637

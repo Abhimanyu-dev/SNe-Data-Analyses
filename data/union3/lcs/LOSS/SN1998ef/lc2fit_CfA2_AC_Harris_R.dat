@@ -1,0 +1,9 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  CfA2_FLWO
+@BAND  CfA2_AC_Harris_R
+@MAGSYS  Linear_AB11_off
+51216.12000000011  19.02  0.022
+51224.08999999985  19.685  0.089

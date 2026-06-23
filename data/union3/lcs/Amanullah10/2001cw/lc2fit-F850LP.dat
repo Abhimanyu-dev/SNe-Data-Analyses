@@ -1,0 +1,10 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT WFPC2PC
+@BAND  WFPC2PC_F850LP
+@MAGSYS  VEGAHST
+@WEIGHTMAT  2001cw.F850LP.cov
+52079.94  0.208  0.045  22.030

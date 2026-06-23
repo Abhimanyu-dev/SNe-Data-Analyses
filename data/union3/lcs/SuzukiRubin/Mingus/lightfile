@@ -1,0 +1,14 @@
+NAME           GOODS-N-SCP04-37
+Set            goodsnorth
+RA             12:37:09.483
+DEC            +62:22:15.45
+EPOCH          2000.0
+Redshift       1.713
+z_heliocentric 1.713
+z_CMB          1.713
+MWEBV          0.013
+
+P_high  1.0
+Mass  9.88  0.92  -0.92
+SurveyMass  9.88  0.92
+

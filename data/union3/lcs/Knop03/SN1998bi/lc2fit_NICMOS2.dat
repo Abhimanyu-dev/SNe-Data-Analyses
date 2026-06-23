@@ -1,0 +1,9 @@
+@INSTRUMENT NICMOS2
+@BAND F110W_faint
+@MAGSYS VEGAHST
+#Date : 
+#Flux : 
+#Fluxerr :
+#ZP : 
+#end
+50922.51  0.607  0.020518284528683192  22.268

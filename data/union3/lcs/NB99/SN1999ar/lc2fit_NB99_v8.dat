@@ -1,0 +1,9 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT  NB99
+@BAND  NB99_v8
+@MAGSYS  Linear_AB11_off
+51259.22999999998  2968.86  507.44  29.0

@@ -1,0 +1,9 @@
+@INSTRUMENT WFC3
+@BAND WFC3_f125w
+@MAGSYS AB
+#Date : 
+#Flux : 
+#Fluxerr : 
+#ZP : 
+55872.443  13.465  1.011  27.4952
+55885.216  8.339  0.999  27.4952

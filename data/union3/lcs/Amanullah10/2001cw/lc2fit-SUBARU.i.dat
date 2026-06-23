@@ -1,0 +1,10 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT SprimeCam
+@BAND  SprimeCam_iprime
+@MAGSYS  Linear_AB11_off
+52024.430  1.594  0.504  27.300
+52049.500  13.148  0.462  27.300

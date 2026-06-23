@@ -1,0 +1,9 @@
+#Date  :  (days  since  January  1st,  2003)
+#Flux  :
+#Fluxerr  :
+#ZP  :  elixir  zp
+@INSTRUMENT FORS1
+@BAND  FORS1_I
+@MAGSYS  Linear_AB11_off
+@WEIGHTMAT  2001hb.VLT.I-night-weightmat.dat
+52086.00  0.1040456  0.0693107  23.360

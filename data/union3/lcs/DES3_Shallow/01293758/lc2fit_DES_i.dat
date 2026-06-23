@@ -1,0 +1,9 @@
+@INSTRUMENT DECam
+@BAND DECam_i
+@MAGSYS AB
+#Date : MJD
+#Flux : 
+#Fluxerr : 
+#ZP : 
+#end
+56961.013  98.755  17.9  27.50049715930016

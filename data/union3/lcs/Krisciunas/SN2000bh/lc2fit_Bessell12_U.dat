@@ -1,0 +1,8 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  Krisciunas
+@BAND  Bessell12_U
+@MAGSYS  Linear_AB11_off
+51643.12000000011  16.632  0.06

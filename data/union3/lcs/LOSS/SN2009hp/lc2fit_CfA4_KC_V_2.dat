@@ -1,0 +1,8 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  CfA34_FLWO
+@BAND  CfA4_KC_V_2
+@MAGSYS  Linear_AB11_off
+55080.3992  18.664  0.0939

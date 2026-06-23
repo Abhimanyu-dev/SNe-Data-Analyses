@@ -1,0 +1,8 @@
+@INSTRUMENT WFC3
+@BAND WFC3_f127m
+@MAGSYS AB
+#Date : 
+#Flux : 
+#Fluxerr : 
+#ZP : 
+56084.763  5.363  0.623  27.495

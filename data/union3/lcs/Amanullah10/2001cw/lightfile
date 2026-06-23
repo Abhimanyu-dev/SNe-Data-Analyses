@@ -1,0 +1,14 @@
+NAME           2001cw
+SET            SCP2001
+RA             15:23:06.3
+DEC            +29:39:32
+EPOCH          2000.0
+Redshift       0.953
+z_heliocentric 0.953
+z_cmb          0.953
+MWEBV          0.024
+MWEBV_orig     0.024
+
+P_high  0.448328206705
+Mass  9.88  0.92  -0.92
+SurveyMass  9.88  0.92

@@ -1,0 +1,9 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT  PS
+@BAND  PS_z
+@MAGSYS  AB
+57877.473  22494.0  283.6  27.4937

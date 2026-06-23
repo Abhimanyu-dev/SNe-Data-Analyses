@@ -1,0 +1,8 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  CfA2_FLWO
+@BAND  CfA2_AC_SAO_V
+@MAGSYS  Linear_AB11_off
+51136.22999999998  17.925  0.01

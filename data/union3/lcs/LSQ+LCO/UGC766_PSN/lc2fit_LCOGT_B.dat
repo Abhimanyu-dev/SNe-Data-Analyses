@@ -1,0 +1,9 @@
+#Date  :
+#Mag  :
+#Magerr  :
+#end  :
+@INSTRUMENT  LCOGT
+@BAND  LCOGT_B
+@MAGSYS  Linear_AB11_off
+56969.06764  16.273  0.032
+56969.06921  16.278  0.031

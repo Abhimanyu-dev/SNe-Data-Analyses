@@ -1,0 +1,9 @@
+#Date  :
+#Flux  :
+#Fluxerr  :
+#ZP  :
+#end  :
+@INSTRUMENT  NICMOS2
+@BAND  F110W_faint
+@MAGSYS  ST
+53604.074  0.5086  0.023  25.296

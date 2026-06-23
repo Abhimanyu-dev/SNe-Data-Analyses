@@ -1,0 +1,14 @@
+NAME           2001gn
+SET            SCP2001
+RA             14:02:00.3
+DEC            +05:04:53.9
+EPOCH          2000.0
+Redshift       1.124
+z_heliocentric 1.124
+z_cmb          1.124
+MWEBV          0.028
+MWEBV_orig     0.028
+
+P_high  0.448328206705
+Mass  9.88  0.92  -0.92
+SurveyMass  9.88  0.92
